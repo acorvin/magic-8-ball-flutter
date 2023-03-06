@@ -6,6 +6,16 @@ This is a simple Magic 8 Ball App created in Flutter. The app is created by appl
 
 ![preview](preview-magic-eight-bob.gif?raw=true)
 
+## Getting Started
+
+To get started, clone the repository and open it in your favorite code editor. Then run the following commands:
+
+```
+git clone 
+cd quizapp
+flutter run
+```
+
 ## Technologies Used
 
 - Flutter
